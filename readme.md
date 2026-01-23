@@ -1,4 +1,4 @@
-# Git Staging Area and Commit Guide
+# Git Staging Area to Working directory and  Commit Guide to working directory
 
 This repository explains how files move from the **Working Directory** to the **Staging Area** and finally into a **Commit** in Git.
 
